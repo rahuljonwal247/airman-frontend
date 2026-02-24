@@ -103,13 +103,7 @@ export default function LoginPage() {
           </div>
         </div>
 
-        {/* Demo creds */}
-        <div className="mt-4 card p-4 text-xs text-slate-500">
-          <p className="font-medium text-slate-600 mb-2">Demo Credentials (Alpha Flight School):</p>
-          <p>Admin: admin@alpha.com / Admin@123</p>
-          <p>Instructor: instructor@alpha.com / Instructor@123</p>
-          <p>Student: student@alpha.com / Student@123</p>
-        </div>
+        
       </div>
     </div>
   );
